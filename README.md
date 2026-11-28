@@ -1,5 +1,9 @@
 # 地机驿站（Dijiang Station）
 
+> **命名即种子（Naming as Seed）**：本仓从道统命名生长而来——名字承载「命名 → 逻辑本体 → 架构 → 算子」的映射，架构从名字里长出来。
+> 理念全文：《[命名即种子：从道统长出的软件生长范式](https://www.huodouai.com/whitepaper/naming-as-seed-article-20261128.html)》 · 仓库全景：[开源窗户](https://www.huodouai.com/whitepaper/opensource-window-20261128.html)
+
+
 > **命名即种子**：地机＝大地机关，承载而不显；驿站＝中转停靠，接续而传。
 > 一句话架构：**把消息在节点间可靠地接住、存住、传下去——收件有凭、在途有账、送达有印。**
 
